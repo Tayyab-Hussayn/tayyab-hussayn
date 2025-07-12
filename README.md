@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=600&lines=Building+Fast%2C+Smart%2C+and+Beautiful;Crafting+Futuristic+Interfaces+with+Precision;Engineering+Modern%2C+High-Performance+Applications&center=true&vCenter=true&size=25" alt="Typing Effect" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=600&lines=Building+Fast%2C+Smart%2C+Beautiful;Designing+Futuristic+UIs+with+Precision;Engineering+High-Performance+Apps&center=true&vCenter=true&size=25" alt="Typing Effect" />
 <!-- Futuristic Header -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
