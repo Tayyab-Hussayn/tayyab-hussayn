@@ -46,17 +46,17 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=tokyonight&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
 <br>
@@ -177,7 +177,7 @@
 ## 🔮 The Portal to the Unknown
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-hussayn&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-hussayn&theme=tokyo-night&hide_border=true&area=true&color=00D9FF" width="100%" />
 </div>
 
 <br>
@@ -201,10 +201,3 @@
 ║                        the fundamentals of the ordinary."                    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,6a0dad,00D9FF&height=120&section=footer" width="100%" />
-</div>
