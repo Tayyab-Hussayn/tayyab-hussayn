@@ -43,20 +43,20 @@
 ## 📊 The Command Center
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=transparent" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
       </td>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=transparent&hide_border=true" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true&background=transparent" />
+  <img src="https://streak-stats.demolab.com/?user=tayyab-hussayn&theme=transparent&hide_border=true" />
 </div>
 <br>
 
