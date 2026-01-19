@@ -56,7 +56,8 @@
   
   <br>
   
-  <img src="https://streak-stats.demolab.com/?user=tayyab-hussayn&theme=transparent&hide_border=true" />
+  <!-- Fixed Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=tayyab-hussayn&theme=default&hide_border=true&background=transparent" />
 </div>
 <br>
 
