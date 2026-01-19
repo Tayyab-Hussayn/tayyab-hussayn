@@ -57,10 +57,9 @@
   <br>
   
   <!-- Fixed Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=tayyab-hussayn&theme=default&hide_border=true&background=transparent" />
+  <img src="https://streak-stats.demolab.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true&background=transparent" />
 </div>
 <br>
-
 
 ## 🚀 Arsenal & Toolkit
 
