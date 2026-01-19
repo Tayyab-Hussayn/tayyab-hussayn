@@ -43,23 +43,23 @@
 ## 📊 The Command Center
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=transparent" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=tokyonight&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true&background=transparent" />
 </div>
+<br>
 
-</br>
 
 ## 🚀 Arsenal & Toolkit
 
