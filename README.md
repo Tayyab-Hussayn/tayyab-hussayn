@@ -61,6 +61,13 @@
 </div>
 <br>
 
+## 🔮 The Portal to the Unknown
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-hussayn&theme=tokyo-night&hide_border=true&area=true&color=00D9FF" width="100%" />
+</div>
+
+
 ## 🚀 Arsenal & Toolkit
 
 <div align="center">
@@ -173,12 +180,6 @@
 </table>
 
 <br>
-
-## 🔮 The Portal to the Unknown
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-hussayn&theme=tokyo-night&hide_border=true&area=true&color=00D9FF" width="100%" />
-</div>
 
 <br>
 
