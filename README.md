@@ -43,17 +43,17 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Rᴇᴄᴇɴᴛ ʙᴜɪʟᴅs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,kotlin,react,nextjs,fastapi,flask,tailwind,postgres,mysql,mongodb,supabase,docker,git,arch&perline=4&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,kotlin,react,nextjs,fastapi,flask,tailwind,postgres,mysql,mongodb,supabase,docker,git,arch&perline=4&theme=light">
-  <img align="left" alt="Tech stack" src="https://skillicons.dev/icons?i=py,ts,js,kotlin,react,nextjs,fastapi,flask,tailwind,postgres,mysql,mongodb,supabase,docker,git,arch&perline=4&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Tech stack animation" src="./Skills_Animation_White.gif">
 </picture>
 <br />
 
-<h3 align="left">Also work with</h3>
+<h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Claude API, OpenAI API, AI agents and tool calling.</li>
-  <li>n8n, Playwright, web scraping and WhatsApp automation.</li>
-  <li>REST APIs, SQL, Framer Motion and GSAP.</li>
+  <li>Running several AI coding agents in parallel on one codebase, each owning a module (how Smart Sticky Notes is built).</li>
+  <li>Kotlin Multiplatform and Compose Multiplatform, through Smart Sticky Notes.</li>
+  <li>AI voice assistants, after building a voice calling assistant for the Alvis agency.</li>
 </ul>
 
 <h3 align="left">Recent Builds</h3>
