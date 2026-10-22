@@ -1,204 +1,188 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,6a0dad,00D9FF&height=250&section=header&text=Tayyab%20Hussayn&fontSize=70&fontAlign=50&fontAlignY=40&desc=Architecting%20the%20Digital%20Future&descAlign=50&descAlignY=65&animation=twinkling" width="100%" />
+<img src="./header-wave.svg" alt="Tayyab Hussain — AI &amp; Automation Developer · Full-Stack" width="100%" />
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Building+Fast%2C+Smart%2C+Beautiful;Designing+Futuristic+UIs+with+Precision;Engineering+High-Performance+Apps;Explaining+Code+to+Humans&center=true&vCenter=true&size=22" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C98A72&width=600&lines=Building+AI+Agents+That+Do+Real+Work;Automating+WhatsApp+and+LinkedIn+Workflows;Shipping+Full-Stack+Apps+Fast;Turning+Ideas+into+Real+Products&center=true&vCenter=true&size=22" alt="Typing Effect" />
 </a>
+
+</div>
 
 <br/>
 
-<!-- Intro Text -->
-<p align="center" width="60%">
-  <samp>
-    I'm <strong>Tayyab Hussayn</strong> — a developer who blends design finesse with engineering rigor. My toolkit ranges from <strong>Vue, React, and Tailwind</strong> on the frontend to <strong>Node, Rust, and Docker</strong> under the hood. Passionate about AI bots, ethical hacking, and cinematic UI animations, I code not just to solve problems but to invent new experiences.
-  </samp>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴛᴀʏʏᴀʙ ʜᴜssᴀɪɴ!
+*AI & Automation Developer · Full-Stack*
+<br />
+
+<!--Start Intro-->
+<p align="left">I build AI agents that do real business work: a WhatsApp bot that takes restaurant orders, a LinkedIn agent that writes and publishes posts, and a Google Maps lead finder with WhatsApp outreach. I work across the stack and use AI coding agents to ship fast.</p>
+
+-  BSCS student at Superior University, based in Lahore, Pakistan.
+-  Full Stack Developer at Gobind Trades Ltd since May 2026, working on their construction management software (employee app and admin dashboard).
+-  I work with Python, TypeScript, React, Next.js, FastAPI, the Claude and OpenAI APIs, n8n and Playwright.
+-  Past work includes the Alvis agency site, MyHomeDoc and Techspirex (WordPress).
+-  Visit my [Portfolio](https://tayyabhussayn.vercel.app) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tayyab-Hussayn&label=Profile%20views&color=C98A72&style=for-the-badge&logo=star&labelColor=3F3533" alt="Tayyab-Hussayn" style="padding-right:20px;" />
 </p>
 
-<br>
+---
 
-<!-- Socials -->
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Rᴇᴄᴇɴᴛ ʙᴜɪʟᴅs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,kotlin,react,nextjs,fastapi,flask,tailwind,postgres,mysql,mongodb,supabase,docker,git,arch&perline=4&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,kotlin,react,nextjs,fastapi,flask,tailwind,postgres,mysql,mongodb,supabase,docker,git,arch&perline=4&theme=light">
+  <img align="left" alt="Tech stack" src="https://skillicons.dev/icons?i=py,ts,js,kotlin,react,nextjs,fastapi,flask,tailwind,postgres,mysql,mongodb,supabase,docker,git,arch&perline=4&theme=light">
+</picture>
+<br />
+
+<h3 align="left">Also work with</h3>
+<ul align="left">
+  <li>Claude API, OpenAI API, AI agents and tool calling.</li>
+  <li>n8n, Playwright, web scraping and WhatsApp automation.</li>
+  <li>REST APIs, SQL, Framer Motion and GSAP.</li>
+</ul>
+
+<h3 align="left">Recent Builds</h3>
+<ul align="left">
+  <li><a href="https://github.com/Tayyab-Hussayn/querylens">🔥QueryLens: visual database manager for PostgreSQL, MySQL, MongoDB and SQLite 🗄️</a></li>
+  <li><a href="https://github.com/Tayyab-Hussayn/leadsGen">🔥LeadsGen: finds businesses without a website on Google Maps and sends WhatsApp outreach 🤖</a></li>
+  <li><a href="https://github.com/Tayyab-Hussayn/orderOnline">Order Online: restaurant site with cart, ordering, reservations &amp; admin panel 🍽️</a></li>
+  <li><a href="https://www.byqalam.com/">byQalam: LinkedIn AI content agent ✍️</a></li>
+  <li><a href="https://github.com/Tayyab-Hussayn/vocalize-ai">Vocalize AI: free open-source text-to-speech 🔊</a></li>
+  <li>Restaurant WhatsApp Agent: takes orders in Roman Urdu and sends them to the owner 💬</li>
+  <li>Smart Sticky Notes: Kotlin app showing notes and reminders on the home screen (in development) 📝</li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tayyab-hussayn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/tayyabhusayn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:tayyabhussayn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/Tayyab-Hussayn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Tayyab-Hussayn&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=dracula">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Tayyab-Hussayn&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Tayyab-Hussayn&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/Tayyab-Hussayn">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Tayyab-Hussayn/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
 
-</div>
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<br>
-
-<div align="center"> 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📊 The Command Center
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=tayyab-hussayn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-hussayn&layout=compact&theme=transparent&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Fixed Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=tayyab-hussayn&theme=tokyonight&hide_border=true&background=transparent" />
-</div>
-<br>
-
-## 🔮 The Portal to the Unknown
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-hussayn&theme=tokyo-night&hide_border=true&area=true&color=00D9FF" width="100%" />
-</div>
-
-
-## 🚀 Arsenal & Toolkit
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle" width="20%"><strong>🌐 Frontend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-        <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle"><strong>⚙️ Backend</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/>
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle"><strong>🖥️ Desktop</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Electron-%232B2E3A.svg?style=flat-square&logo=electron&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tauri-%2324C8D2.svg?style=flat-square&logo=tauri&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle"><strong>🦀 System</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-      </td>
-    </tr>
-     <tr>
-      <td valign="middle"><strong>🤖 Advanced</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/AI_Agents-FF6600?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Trading_Bots-008080?style=flat-square&logo=bitcoin&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center"> 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🧪 Featured Deployments
-
-<table border="0" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📘 Linux Resource Hub</h3>
-      <p align="center"><em>The Developer's Handbook</em></p>
-      <p>A curated collection of Linux-related resources for developers and power users. Streamlining productivity one command at a time.</p>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <a href="https://github.com/Tayyab-Hussayn">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Tayyab-Hussayn&count_private=true&show_icons=true&theme=nightowl&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&ring_color=E9B49C&border_radius=16&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
       </p>
-      <div align="center">
-        <a href="https://github.com/Tayyab-Hussayn/Resource-hub"><strong>Explore Repo »</strong></a>
-      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ Dynamic Particle Ring</h3>
-      <p align="center"><em>Next-Gen UI Component</em></p>
-      <p>A smooth, lightweight JavaScript particle ring animation designed for high‑end frontend interfaces. Clean code, captivating visuals.</p>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <a href="https://github.com/Tayyab-Hussayn">
+          <img align="center" src="https://streak-stats.demolab.com/?user=Tayyab-Hussayn&theme=nightowl&background=35,2E2522,3F3533,5C4A43&fire=F6D3C6&ring=E9B49C&sideNums=FFFFFF&sideLabels=F6D3C6&dates=D9C6BC&currStreakNum=FFFFFF&currStreakLabel=F6D3C6&stroke=FFFFFF55&border_radius=16&hide_border=true" alt="Streak Stats" />
+        </a>
       </p>
-      <div align="center">
-        <a href="https://github.com/Tayyab-Hussayn/particle-ring-component"><strong>Explore Repo »</strong></a>
-      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Alsa Portfolio Theme</h3>
-      <p align="center"><em>WordPress Refined</em></p>
-      <p>A fully customizable, responsive WordPress theme crafted for personal portfolios. Modern UI components ready for deployment.</p>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <a href="https://github.com/Tayyab-Hussayn/querylens">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Tayyab-Hussayn&repo=querylens&theme=nightowl&show_owner=true&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&border_radius=16&hide_border=true" alt="querylens" />
+        </a>
       </p>
-      <div align="center">
-        <a href="https://github.com/Tayyab-Hussayn/Alsa"><strong>Explore Repo »</strong></a>
-      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Project Delta</h3>
-      <p align="center"><em>AI Market Analyst</em></p>
-      <p>An intelligent trading bot powered by AI algorithms. Performs real‑time market analysis and secure trading execution.</p>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <a href="https://github.com/Tayyab-Hussayn">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Tayyab-Hussayn&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&hide_border=true&border_radius=16" alt="Top Repo" />
+        </a>
       </p>
-      <div align="center">
-        <a href="https://github.com/tayyab-hussayn"><strong>Explore Repo »</strong></a>
-      </div>
     </td>
   </tr>
 </table>
+<br />
 
-<br>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://activity-graph-kappa.vercel.app/graph?username=Tayyab-Hussayn&bg_color=3F3533&color=FFF8F2&line=E9B49C&point=F6D3C6&area=true&area_color=C98A72&hide_border=true&radius=16" border-radius="15">
+</div>
 
-<br>
+---
 
-```yaml
-# ACCESSING SECURE TERMINAL...
-# IDENTITY VERIFIED: TAYYAB_HUSSAYN
+<!--Dynamic Quote card updates everyday at 12 AM-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    ██████╗  ██████╗ ██████╗ ████████╗ █████╗ ██╗         █████╗  ██████╗    ║
-║    ██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝██╔══██╗██║        ██╔══██╗██╔════╝    ║
-║    ██████╔╝██║   ██║██████╔╝   ██║   ███████║██║        ███████║██║         ║
-║    ██╔═══╝ ██║   ██║██╔══██╗   ██║   ██╔══██║██║        ██╔══██║██║         ║
-║    ██║     ╚██████╔╝██║  ██║   ██║   ██║  ██║███████╗   ██║  ██║╚██████╗    ║
-║    ╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝  ╚═╝ ╚═════╝    ║
-║                                                                              ║
-║                        🔑 KEY: 0x7F4A9B2E [ACTIVE]                           ║
-║                                                                              ║
-║              "Those who seek the extraordinary must first master             ║
-║                        the fundamentals of the ordinary."                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20Notke&quote=Hard%20work%20beats%20talent%20when%20talent%20doesn't%20work%20hard.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--Contact Section-->
+
+<h2 align="center"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+
+<a href="mailto:tayyabhussayn@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="tayyabhussayn@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/tayyabhusayn" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="tayyabhusayn" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/Tayyab-Hussayn" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Tayyab-Hussayn" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/tayyab-hussayn/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+<!--Portfolio button (in place of Buy me a coffee)-->
+<div align="center">
+<a href="https://tayyabhussayn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-tayyabhussayn.vercel.app-C98A72?style=for-the-badge&labelColor=3F3533" alt="Visit my portfolio" height="40"></a>
+</div>
+
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8604A,50:6E3B30,100:1C1211&height=90&section=footer"/>
+</p>
