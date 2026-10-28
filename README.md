@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- Header Banner part -->
 <img src="./header-wave.svg" alt="Tayyab Hussain — AI &amp; Automation Developer · Full-Stack" width="100%" />
 
 <!-- Animated Typing Effect -->
